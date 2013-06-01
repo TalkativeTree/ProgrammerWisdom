@@ -3,7 +3,16 @@
 An Introduction to JSON: https://www.youtube.com/watch?v=rncW-74VL7U
 
 <h2>RESTful design</h2>
-<h2>HTML</h2>
-<h2>CSS</h2>
-<h2>Active Record</h2>
+<p> Add tips here </p>
 
+<h2>HTML</h2>
+<p> Add tips here </p>
+
+<h2>CSS</h2>
+<p> Add tips here </p>
+
+<h2>Active Record</h2>
+<p> Add tips here </p>
+
+<h2>Sinatra</h2>
+<p> Add tips here </p>
