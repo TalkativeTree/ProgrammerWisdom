@@ -2,10 +2,12 @@
 
 - Try jQuery: @ codeschool http://www.codeschool.com/courses/try-jquery  
 - OOP In JavaScript: What You NEED to Know: http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/  
+- Introduction to JavaScript and Browser DOM: https://www.youtube.com/watch?v=ljNi8nS5TtQ  
 - An Introduction to JSON: https://www.youtube.com/watch?v=rncW-74VL7U  
 
 <h2>RESTful design</h2>
-<p> Add tips here </p>
+<p> Add tips here </p>  
+<p>Intro into REST</p> http://www.restapitutorial.com/lessons/whatisrest.html
 
 <h2>HTML</h2>
 <p> Add tips here </p>
