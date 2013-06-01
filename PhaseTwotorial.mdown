@@ -7,7 +7,7 @@
 
 <h2>RESTful design</h2>
 <p> Add tips here </p>  
-<p>Intro into REST</p> http://www.restapitutorial.com/lessons/whatisrest.html
+- Intro into REST http://www.restapitutorial.com/lessons/whatisrest.html
 
 <h2>HTML</h2>
 <p> Add tips here </p>
