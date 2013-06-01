@@ -1,8 +1,8 @@
 <h2>Learning Javascript and jQuery</h2>
 
-An Introduction to JSON: https://www.youtube.com/watch?v=rncW-74VL7U
-Try jQuery: @ codeschool http://www.codeschool.com/courses/try-jquery
-
+- Try jQuery: @ codeschool http://www.codeschool.com/courses/try-jquery
+- OOP In JavaScript: What You NEED to Know: http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/
+- An Introduction to JSON: https://www.youtube.com/watch?v=rncW-74VL7U
 <h2>RESTful design</h2>
 <p> Add tips here </p>
 
