@@ -1,0 +1,9 @@
+<h2>Learning Javascript and jQuery</h2>
+
+An Introduction to JSON: https://www.youtube.com/watch?v=rncW-74VL7U
+
+<h2>RESTful design</h2>
+<h2>HTML</h2>
+<h2>CSS</h2>
+<h2>Active Record</h2>
+
