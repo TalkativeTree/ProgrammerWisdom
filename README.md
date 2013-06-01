@@ -1,61 +1,11 @@
-Suriving Dev Bootcamp
+ProgrammerWisdon
 =========
 <br>
-<h4>Remember that Hard Work is more important than talent or intelligence.</h4>
-<p>Greatness is often misattributed to some finite level of ability. People assume others are ahead of them without accounting for the amount of work that person is putting in to achieve their success.</p> 
-<h4>Persistence and Patience </h4>
- - patience with yourself and persistence with this process. 
-Learning over completion
- - You just paid over $12,000 to be here. It's not about checking boxes off of a list, it's about learning the material
+<h4>This is meant to be an open source collection of advice, materials, and wisdom.</h4>
+<p>Make sure to attribute links/articles back to their sources if you borrow from somewhere else.</p> 
 
->Accept what life has given you, overcome what holds you back.
+<h4>Surviving Devbootcamp</h4>
+https://github.com/TalkativeTree/ProgrammerWisdom/blob/master/Suriving_Dev_Bootcamp.mdown
 
- - Some people may agree with me, some may not, but DBC is more than a programming bootcamp. Yes, you came here to learn how to program, but you have an opportunity to grow as a person. 
- - A successful day is defined by always defined by what you've learned, but by what you overcome. 
- - Don't try to be someone else; don't compare your weaknesses to others' strengths
- - Focus on the strengths you bring to your pair, cohort, and yourself. 
-
-<h4>Pairing</h4>
- - Communicate everything.
- - Share your preferences and learning needs. Ask the learning needs of your partner and respect those needs. 
- - If someone need the practice/experience, let them drive.
- - Detach yourself from your ideas, allow the best idea to flourish.
- - It's MEANT to be difficult. Sometimes you'll feel dumb OR dragged behind, it's normal. Learning to deal with it like a rational, healthy human adult is part of the process dbc puts you through.
-
-<h4>On Hardwork and effort</h4>
- - The human is capable of amazing things, but you in order to achieve amazing, you have to suck first.
-   + As one of my favorite quotes go: "Dude, suckin' at something is the first step towards being sorta good at something."
- - Dev Bootcamp is a marathon, not a sprint. Everyone runs at their own pace
-   + Consistent effort > bursts of hard work
-
-<h4>On Learning</h4>
- - The process is going to be tough, challenging, and painful. Embrace the challenge and learn from it. Use it to motivate you to figure out how to learn quicker. Think about how you're learning, how you're tackling problems, and the process you use. Always focus on how you can improve that process.
- - Learning is about experimenting and when it comes to learning programming, the only way to experiment is by testing code. 
-
-<h4>On Testing and Debugging</h4>
- - Get familiar with irb and <strong>test everything</strong>.
- - Start with small tests
- - Test in increments
- - Google your errors
- - Be precise in what you're expecting, and narrow down the problem with deliberate experiments.
- - Read every error thoroughly and make sure you understand the nature of the problem and SPECIFICALLY where it's breaking. use scientific method to figure it out after that to narrow down potential reasons why your code is breaking 
-> If you don't do things inch by inch, you'll eventually find you've gone miles off course. Don't waste your time. 
-
-<h4>Simplicity</h4>
- - Design and programming is minimalistic at it's best. 
- - doing something in a complex way isn't clever or mean you're smart. It means you're ignorant of a better way to do something (ignorance isn't a bad thing.)
- - Simplicity is easy to understand. 
- - Simplicity is doing one thing at a time. 
-  + do everything in coding one step at a time
-
-<h4>Don't waste time</h4>
- - Talk without action is wasted time. 
- - Be deliberate.
- - Produce something, then get feedback. It doesn't matter if it's done or how godo it is. Good enough is better than never completed.
-
-<h4>Health and Taking Care of yourself</h4>
- - Get sleep. If you need 8hrs of sleep to function, get it!
- - Get physical activity in every day. either by walking/biking to DBC, or going to the YMCA during lunch.
-   + physical activity promotes mental health and activitiy.
- - Bring your own food to DBC, eating out everyday is hard on your wallet as well as your health.
- - If you're biking across the train track, hit them perpendicularly (your tire might get stuck otherwise).
+<h4>Adam Wiggins Values</h4>
+<h4>Phase Twotorial/h4>
