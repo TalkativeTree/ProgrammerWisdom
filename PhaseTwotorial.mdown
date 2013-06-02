@@ -16,6 +16,8 @@
 
 <h2>CSS</h2>
 <p> Add tips here </p>
+- Get familiar with positioning: http://www.barelyfitz.com/screencast/html-training/css/positioning/
+- Guessing at CSS positioning can be extremely frustrating. A little time spent reading on it can save a lot of time!
 
 <h2>Active Record</h2>
 <p>Rails Guide on Active Record Migrations: http://guides.rubyonrails.org/migrations.html</p>
