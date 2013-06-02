@@ -20,10 +20,10 @@
 - Guessing at CSS positioning can be extremely frustrating. A little time spent reading on it can save a lot of time!
 
 <h2>Active Record</h2>
-<p>Rails Guide on Active Record Migrations: http://guides.rubyonrails.org/migrations.html</p>
-<p>Rails Guide on Active Record Validations: http://guides.rubyonrails.org/active_record_validations_callbacks.html</p>
-<p>Rails Guide on Active Record Associations: http://guides.rubyonrails.org/association_basics.html</p>
-<p>Rails Guide on Active Record Queries: http://guides.rubyonrails.org/active_record_querying.html</p>
+- Rails Guide on Active Record Migrations: http://guides.rubyonrails.org/migrations.html  
+- Rails Guide on Active Record Validations: http://guides.rubyonrails.org/active_record_validations_callbacks.html  
+- Rails Guide on Active Record Associations: http://guides.rubyonrails.org/association_basics.html  
+- Rails Guide on Active Record Queries: http://guides.rubyonrails.org/active_record_querying.html  
 
 <h2>Sinatra</h2>
-<p>Read and follow along Chapters 1 and 2 in the Sinatra Book found in the DBC Dropbox</p>
+- Read and follow along Chapters 1 and 2 in the Sinatra Book found in the DBC Dropbox  
