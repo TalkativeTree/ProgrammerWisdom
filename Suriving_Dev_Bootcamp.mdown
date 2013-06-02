@@ -47,7 +47,7 @@ Learning over completion
  - Simplicity is easy to understand. 
  - Simplicity is doing one thing at a time. 
   + do everything in coding one step at a time
-
+  
 <h4>Don't waste time</h4>
  - Talk without action is wasted time. 
  - Be deliberate.
@@ -59,3 +59,9 @@ Learning over completion
    + physical activity promotes mental health and activitiy.
  - Bring your own food to DBC, eating out everyday is hard on your wallet as well as your health.
  - If you're biking across the train track, hit them perpendicularly (your tire might get stuck otherwise).
+ - (CHI specific) Feed yourself - http://www.insomniacookies.com/ and http://www.yelp.com/biz/the-doughnut-vault-chicago
+
+<h4>Misc tips</h4>
+ - What is pseudocode? http://en.wikipedia.org/wiki/Pseudocode
+ - Getting hired: http://dykstra.xxx/post/51182195548/eric-im-going-into-dbc-chicago-in-late-june-and-i
+ 
