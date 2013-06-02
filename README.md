@@ -1,7 +1,7 @@
 ProgrammerWisdon
 =========
 <br>
-<h4>This is meant to be an open source collection of advice, materials, and wisdom.</h4>
+<p>This is meant to be an open source collection of advice, materials, and wisdom.</p>
 <p>Make sure to attribute links/articles back to their sources if you borrow from somewhere else.</p> 
 
 <h4>Surviving Devbootcamp</h4>
