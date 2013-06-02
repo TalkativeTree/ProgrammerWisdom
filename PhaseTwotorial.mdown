@@ -1,9 +1,9 @@
 <h2>Learning Javascript and jQuery</h2>
 
 An Introduction to JSON: https://www.youtube.com/watch?v=rncW-74VL7U
-Try jQuery @ code academy: http://try.jquery.com/
-jQuery Air: http://www.codeschool.com/courses/jquery-air-captains-log
-devBootcamp Bookshelf: jQuery from Novice to Ninja
+<p>Try jQuery @ code academy: http://try.jquery.com/</p>
+<p>jQuery Air: http://www.codeschool.com/courses/jquery-air-captains-log</p>
+<p>devBootcamp Bookshelf: jQuery from Novice to Ninja</p>
 
 <h2>RESTful design</h2>
 <p> Add tips here </p>
