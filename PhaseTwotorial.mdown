@@ -24,6 +24,10 @@
 - Rails Guide on Active Record Validations: http://guides.rubyonrails.org/active_record_validations_callbacks.html  
 - Rails Guide on Active Record Associations: http://guides.rubyonrails.org/association_basics.html  
 - Rails Guide on Active Record Queries: http://guides.rubyonrails.org/active_record_querying.html  
+- NetTuts+: Active Record: The Rails Database Bridge http://net.tutsplus.com/tutorials/ruby/active-record-the-rails-database-bridge
+-Schneems:AR Deep Dive: http://schneems.com/post/28125445535/active-record-deep-dive
+-Schneems: AR Modeling Relationships: http://schneems.com/post/25503708759/databases-rails-week-2-modeling-relationships-and
 
 <h2>Sinatra</h2>
 - Read and follow along Chapters 1 and 2 in the Sinatra Book found in the DBC Dropbox  
+- NetTuts+: Singing With Sinatra:http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/ (*Note-There are 3 parts)
