@@ -26,7 +26,7 @@ Learning over completion
  - The human is capable of amazing things, but you in order to achieve amazing, you have to suck first.
    + As one of my favorite quotes go: "Dude, suckin' at something is the first step towards being sorta good at something."
  - Dev Bootcamp is a marathon, not a sprint. Everyone runs at their own pace
-   + Consistent effort > bursts of hard work
+   + Consistent effort > bursts of hard work at the last minute
 
 <h4>On Learning</h4>
  - The process is going to be tough, challenging, and painful. Embrace the challenge and learn from it. Use it to motivate you to figure out how to learn quicker. Think about how you're learning, how you're tackling problems, and the process you use. Always focus on how you can improve that process.
