@@ -4,7 +4,7 @@ Surviving Dev Bootcamp
 <h4>Remember that Hard Work is more important than talent or intelligence.</h4>
 <p>Greatness is often misattributed to some finite level of ability. People assume others are ahead of them without accounting for the amount of work that person is putting in to achieve their success.</p> 
 <h4>Persistence and Patience </h4>
- - patience with yourself and persistence with this process.  
+ - patience with yourself and persistence with this process.
 <h4>Learning over completion</h4>
  - You just paid over $12,000 to be here. It's not about checking boxes off of a list, it's about learning the material
  - <strong>Buy The Well Grounded Rubyist</strong> It will improve your experience learning Ruby and fill in many gaps you might have. Try to have finished the first few chapters before you show up.
