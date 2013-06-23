@@ -7,7 +7,7 @@ Surviving Dev Bootcamp
  - patience with yourself and persistence with this process. 
 Learning over completion
  - You just paid over $12,000 to be here. It's not about checking boxes off of a list, it's about learning the material
- - <strong>Buy The Well Grounded Rubyist</strong> if you haven't already. It will be the single most important thing that you read on your own for phase 1. Try to have finished the first few chapters before you show up. Please.
+ - <strong>Buy The Well Grounded Rubyist</strong> It will improve your experience learning Ruby and fill in many gaps you might have. Try to have finished the first few chapters before you show up.
 
 >Accept what life has given you, overcome what holds you back.
 
