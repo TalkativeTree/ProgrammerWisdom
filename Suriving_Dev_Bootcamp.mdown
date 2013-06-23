@@ -1,4 +1,4 @@
-Suriving Dev Bootcamp
+Surviving Dev Bootcamp
 =========
 <br>
 <h4>Remember that Hard Work is more important than talent or intelligence.</h4>
@@ -7,6 +7,7 @@ Suriving Dev Bootcamp
  - patience with yourself and persistence with this process. 
 Learning over completion
  - You just paid over $12,000 to be here. It's not about checking boxes off of a list, it's about learning the material
+ - <strong>Buy The Well Grounded Rubyist</strong> if you haven't already. It will be the single most important thing that you read on your own for phase 1. Try to have finished the first few chapters before you show up. Please.
 
 >Accept what life has given you, overcome what holds you back.
 
@@ -18,7 +19,7 @@ Learning over completion
 <h4>Pairing</h4>
  - Communicate what you're thinking. 
  - Share your preferences and learning needs. Ask the learning needs of your partner and respect those needs. 
- - If someone need the practice/experience, let them drive.
+ - If someone needs the practice/experience, let them drive.
  - Detach yourself from your ideas; allow the best idea for the project to flourish.
  - It's MEANT to be difficult. Sometimes you'll feel dumb OR dragged behind, it's normal. Learning to deal with it like a rational, healthy human adult is part of the process dbc puts you through.
  - If there is some confusion or disagreement, understand what a person means/is thinking. The same sentence can mean two completely separate things from different perspectives. 
